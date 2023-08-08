@@ -8,9 +8,9 @@ db - Postgresql
 
 worker - .NET
 
-Containerized the above microservices in docker
+- Containerized the above microservices in docker
 
-Have used links when using the docker run to connect the microservices with each other as app is dependent on db
+- Have used links when using the docker run to connect the microservices with each other as app is dependent on db
 
 Created images of them pushed to DockerHub and deployed them Kubernetes using the respective manifest files written
 

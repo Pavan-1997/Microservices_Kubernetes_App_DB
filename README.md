@@ -16,4 +16,4 @@ worker - .NET
 
 - Created images of them pushed to DockerHub and deployed them Kubernetes using the respective manifest files written
 
-- Implemented the auto-scaling functionality using Deployments as a kind to the above setup
+- Implemented the auto-scaling functionality using `Deployment` as a kind to the above setup

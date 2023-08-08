@@ -1,3 +1,4 @@
+```
 voting-app - Python
 
 result-app - Node.js
@@ -7,6 +8,7 @@ in-memory db - Redis
 db - Postgresql
 
 worker - .NET
+```
 
 - Containerized the above microservices in docker
 
